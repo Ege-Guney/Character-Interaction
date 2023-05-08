@@ -1,0 +1,4 @@
+
+enum Item{
+    NOTHING, SPOON, FORK, KNIFE, PHONE, PLATE
+};
