@@ -1,3 +1,9 @@
 
+#ifndef PERSONALITY_H
+#define PERSONALITY_H
 
-class Personality{};
+class Personality{
+
+};
+
+#endif
