@@ -3,7 +3,7 @@
 
 
 enum Item{
-    NOTHING, SPOON, FORK, KNIFE, PHONE, PLATE
+    EMPTY, SPOON, FORK, KNIFE, PHONE, PLATE
 };
 
 #endif
